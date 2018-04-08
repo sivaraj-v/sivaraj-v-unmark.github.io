@@ -1,4 +1,4 @@
-importScripts("precache-manifest.6eb84175640c0e6e3b861bb884576b81.js", "https://storage.googleapis.com/workbox-cdn/releases/3.0.1/workbox-sw.js");
+importScripts("https://zural.github.io/precache-manifest.cbd93ac48e3e89c23fcfac0c644869b0.js", "https://storage.googleapis.com/workbox-cdn/releases/3.0.1/workbox-sw.js");
 
 workbox.skipWaiting();
 workbox.clientsClaim();
