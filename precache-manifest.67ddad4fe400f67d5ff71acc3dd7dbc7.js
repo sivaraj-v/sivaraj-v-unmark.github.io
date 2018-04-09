@@ -3,13 +3,13 @@ self.__precacheManifest = [
     "url": "/img/icons/icon_144x144.f92f83ad7c13b5bd845cedc3193e3549.png"
   },
   {
-    "url": "/js/main-bd35aa80a863753321b1.js"
+    "url": "/js/main-c4bf416779d1679bf006.js"
   },
   {
     "url": "/img/icons/icon_128x128.1102737eb072d6838a080fd20cf226b1.png"
   },
   {
-    "revision": "4e0237a53ecd3ed7fa4ab901479b3676",
+    "revision": "c3a679c9a8b6968a9952daaa6c42c556",
     "url": "/index.html"
   },
   {
@@ -61,6 +61,6 @@ self.__precacheManifest = [
     "url": "/img/icons/icon_1024x1024.5301d7d44558656ec63669e7525aed34.png"
   },
   {
-    "url": "/css/main-ad6bb87d3bfb7b623cbd.css"
+    "url": "/css/main-880680c4556c0607c420.css"
   }
 ];
