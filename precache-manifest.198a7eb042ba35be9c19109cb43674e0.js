@@ -3,13 +3,13 @@ self.__precacheManifest = [
     "url": "https://zural.github.io/img/icons/icon_144x144.f92f83ad7c13b5bd845cedc3193e3549.png"
   },
   {
-    "url": "https://zural.github.io/js/main-a9694e67a04aa9635a26.js"
+    "url": "https://zural.github.io/js/main-cab38b12446b0205f708.js"
   },
   {
     "url": "https://zural.github.io/img/icons/icon_128x128.1102737eb072d6838a080fd20cf226b1.png"
   },
   {
-    "revision": "e38baba83cec9b001262967945685789",
+    "revision": "68a93fc5ddcc7bf4652c378678a346db",
     "url": "https://zural.github.io/index.html"
   },
   {
@@ -61,6 +61,6 @@ self.__precacheManifest = [
     "url": "https://zural.github.io/img/icons/icon_1024x1024.5301d7d44558656ec63669e7525aed34.png"
   },
   {
-    "url": "https://zural.github.io/css/main-730f3e17661192503324.css"
+    "url": "https://zural.github.io/css/main-c8e5571c8c599ca89f13.css"
   }
 ];
