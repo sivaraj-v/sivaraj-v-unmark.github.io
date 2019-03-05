@@ -5,7 +5,7 @@ pipeline {
       parallel {
         stage('Develop') {
           steps {
-            bat(script: 'Develop', label: 'Develop')
+            echo 'Develop'
           }
         }
         stage('Step') {
