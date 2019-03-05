@@ -20,5 +20,10 @@ pipeline {
         echo 'QA'
       }
     }
+    stage('Live') {
+      steps {
+        echo 'Live'
+      }
+    }
   }
 }
